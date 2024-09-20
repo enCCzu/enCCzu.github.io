@@ -3,4 +3,4 @@ This repo is a clone of [varadbhogayata's personal portfolio template](https://g
 
 ## Activity 1
 Screenshot of my repo:
-![Screenshot of the repo.](screenshots/a1.png)
+![Screenshot of the repo.](assets/screenshots/a1.png)
