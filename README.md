@@ -10,3 +10,9 @@ Screenshot of my repo:
 ![Screenshot of the repo.](assets/screenshots/a2-1.png)
 Screenshot of my website:
 ![Screenshot of the website.](assets/screenshots/a2-2.png)
+
+## Activity 3
+Screenshot of my repo:
+![Screenshot of the repo.](assets/screenshots/a3-1.png)
+Screenshot of my website:
+![Screenshot of the website.](assets/screenshots/a3-2.png)
