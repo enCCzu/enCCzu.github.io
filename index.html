@@ -325,6 +325,16 @@
       </div>
     </section>
 
+    <!-- Recent Project -->
+     <section id="recent" class="section scrollspy">
+      <h3 class="page-title white-text teal">Experience</h3>
+      <!-- Recent project -->
+      <div id="most-recent" class="container"> 
+
+
+      </div>
+     </section>
+
     <!-- Fourth Section: Projects -->
     <section id="projects" class="section scrollspy">
       <h3 class="page-title white-text teal">Projects</h3>
@@ -610,7 +620,7 @@
     </section>
 
     <!-- Section: Places -->
-    <section id="education" class="section scrollspy">
+    <section id="places" class="section scrollspy">
       <h3 class="page-title white-text teal">Places Travelled</h3>
       <div class="container flow-text">       
         <p>
@@ -676,6 +686,16 @@
         closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
       })
     })
+  </script>
+
+  <script>
+    const mostRecentDiv = document.querySelector("most-recent");
+    console.log(mostRecentDiv)
+
+    const projects = document.getElementsByClassName("col s12 m6 l4");
+    let projectsArray = [...projects]
+    projectsArray.forEach(element => console.log(element))
+
   </script>
 </body>
 
